@@ -41,8 +41,7 @@ let fahrenheit = celsius * (9 / 5) + 32;
 </br>
 <br>
 </br>
-
-6. Write a comment above that explains this line of code.
+6.Write a comment above that explains this line of code.
 <br>
 </br>
 <br>
