@@ -1,4 +1,4 @@
-# LEARN-JAVASCRIPT-Kelvin-Weather-mini-project<br>
+# kelvin-Weather-mini-project-in-javascript<br>
 </br>
 With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit.<br>
 </br>
